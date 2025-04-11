@@ -1,3 +1,5 @@
+![image_alt]()
+
 ![image_alt](https://github.com/Pushkaraggg/Ola-vs-Uber-Revenue-Analysis/blob/44f4be2eec4a58e5673a395ad4f3e58a887b615e/ola%20image.jpg)
 
 # Ola-vs-Uber-Revenue-Analysis
