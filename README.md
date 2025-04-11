@@ -17,6 +17,7 @@
 
 ### Why is Ola in Loss Despite High Revenue?
 
+
 #### (a) High Cancellations Impacting Revenue
 -25K rides were canceled, which is ~28.75% of total bookings.
 -98.58% of cancellations were driver-initiated, leading to lost revenue and poor customer experience.
