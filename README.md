@@ -26,8 +26,11 @@
 
 #### (b) Revenue vs Operational Costs Mismatch
 -Total Booking Value = ₹38.76M (~₹3.87 Cr)
+
 -Successful Bookings = 61.94K, meaning the actual revenue realization is lower than potential revenue.
+
 -Driver incentives, fuel costs, and maintenance are eating into profits.
+
 -Discounts/promos to attract customers reduce effective fares and squeeze margins.
 
 
