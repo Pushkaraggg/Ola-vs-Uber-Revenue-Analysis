@@ -53,7 +53,9 @@
 
 #### (a) High Cancellations:
 Drivers: Improve incentives, accountability, and address root causes.
+
 Customers: Compensate for cancellations, provide real-time updates, and optimize matching.
+
 Marketing: Target areas with driver availability and focus on retention.
 
 #### (b) Revenue vs. Operational Costs:
