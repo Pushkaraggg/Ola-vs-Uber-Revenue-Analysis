@@ -63,20 +63,28 @@ Marketing: Target areas with driver availability and focus on retention.
 
 #### (b) Revenue vs. Operational Costs:
 Operations: Optimize fuel, maintenance, and route planning.
+
 Incentives: Implement dynamic, performance-based structures.
+
 Pricing: Analyze discounts, target promotions, and implement surge pricing.
 
 #### (c) Pricing and Fare Structure:
 Fares: Implement dynamic pricing, granular structures, and tiered options.
+
 Analysis: Conduct market research and optimize for distance and ride type.
+
 Costs: Fully account for operational costs in pricing models.
 
 #### (d) Payment Method Issues:
 Fraud: Implement robust fraud detection systems.
+
 Fees: Negotiate lower transaction fees and explore alternatives.
+
 Digital: Promote digital payments through incentives and awareness.
 
 #### (e) Demand vs. Supply Mismatch:
 Drivers: Recruit and retain drivers in high-demand areas, offer flexible schedules.
+
 Allocation: Optimize driver matching and use geofencing.
+
 Demand: Offer incentives for off-peak rides and improve ride time estimations.
