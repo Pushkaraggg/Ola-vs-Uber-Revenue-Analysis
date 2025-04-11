@@ -1,5 +1,5 @@
 
--- TRANSFORMING DATA (46 SQL QUERY)
+
 
 SELECT * FROM olaa_data
 
