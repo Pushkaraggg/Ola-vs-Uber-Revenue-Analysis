@@ -1,29 +1,27 @@
 SELECT * FROM olaa_data
 
-#### 1.Retrieve all successful bookings:
-```sql
+--1.Retrieve all successful bookings:
 CREATE VIEW suc_bookings AS
 SELECT * 
 FROM olaa_data
 WHERE 
 "Booking Status" = '{S}'
-```
 
-#### 2.Get the total number of cancelled rides by customers:
-```sql
+
+--2.Get the total number of cancelled rides by customers:
 CREATE VIEW cancelled_rides_by_customer As
 SELECT COUNT(*) 
 FROM olaa_data
 WHERE "Booking Status" = '{CC}';
-```
 
-#### 3.Get the total number of cancelled rides by Drivers:
-```sql
+
+--3.Get the total number of cancelled rides by Drivers:
+sql
 CREATE VIEW cancelled_rides_by_Driver As
 SELECT COUNT(*) 
 FROM olaa_data
 WHERE "Booking Status" = '{CD}';
-```
+
 
 --4.List the top 5 customers who booked the highest number of rides:
 CREATE VIEW Top_5_Customer As
