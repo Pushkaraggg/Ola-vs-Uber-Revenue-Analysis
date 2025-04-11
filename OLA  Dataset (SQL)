@@ -16,7 +16,6 @@ WHERE "Booking Status" = '{CC}';
 
 
 --3.Get the total number of cancelled rides by Drivers:
-sql
 CREATE VIEW cancelled_rides_by_Driver As
 SELECT COUNT(*) 
 FROM olaa_data
